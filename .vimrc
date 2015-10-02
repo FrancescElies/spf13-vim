@@ -81,7 +81,7 @@
 
 " General {
 
-    set background=dark         " Assume a dark background
+    set background=light         " Assume a light background
 
     " Allow to trigger background
     function! ToggleBG()
